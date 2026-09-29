@@ -13,17 +13,21 @@
 
 ## About Us
 
-We're **KloudTech Software** — a SaaS company that designs and ships cloud-native software products for businesses that need reliable, scalable operations tooling. We build fast, ship often, and obsess over clean, maintainable code.
+We're KloudTech Software, a SaaS company building cloud-native products for businesses that need reliable, scalable software to run their operations. We work across a range of domains rather than a single niche, and we care about building things that hold up in production, not just demos.
 
-## What We Do
+## What We're Building
 
-We build multi-tenant, cloud-hosted platforms that help businesses manage their operations from a single dashboard — spanning device fleets, content, permissions, and workflows across locations. Our current focus areas include:
+Our work spans a few different areas at the moment.
 
-- **Digital Signage & Screen Management** — centralized control of distributed displays, playlists, and media across branches, cities, and regions.
-- **Access & Role Management** — fine-grained, role-based permission systems for multi-location teams.
-- **Operational Dashboards** — real-time visibility into distributed infrastructure and business metrics.
+On the customer-facing side, we build ordering and delivery experiences — web and mobile apps for placing orders, a rider app for delivery tracking, and the backend services that tie order management, location data, and notifications together.
 
-More SaaS products are in the pipeline as we continue to grow.
+We also build internal tools that help teams run day-to-day operations — an admin dashboard that ties everything together, a ticketing and operations platform, an HR management system, and a training tracker for employee course progress.
+
+On top of that, we build analytics and reporting tools that turn operational data into dashboards and insights, including a lightweight executive reporting app for leadership-level visibility.
+
+And separately, we maintain a digital signage platform for managing LED screens, playlists, and media across branches and regions.
+
+We're still growing this list, and more products will show up here as they mature.
 
 ## Get in Touch
 
